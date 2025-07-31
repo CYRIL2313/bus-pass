@@ -1,0 +1,33 @@
+{
+  "name": "bus-pass-management-system",
+  "version": "1.0.0",
+  "description": "A web application for managing bus passes for students.",
+  "main": "app/page.tsx",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "bus",
+    "pass",
+    "management",
+    "system",
+    "students"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "next": "^11.1.0",
+    "framer-motion": "^4.1.17",
+    "lucide-react": "^0.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5",
+    "eslint": "^7.32.0",
+    "eslint-config-next": "^11.1.0"
+  }
+}
